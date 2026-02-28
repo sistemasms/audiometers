@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "updated_at": "2026-02-28",
+  "audiometers": [
+    {
+      "value":"1"
+      "name": "Audiometer 1",
+      "brand": "Interacoustics",
+      "model": "AD629",
+      "serial_number": "AUD-001",
+      "calibration_date": "2025-12-15"
+    },
+    {
+      "value":"2"
+      "name": "Audiometer 2",
+      "brand": "Maico",
+      "model": "MA42",
+      "serial_number": "AUD-002",
+      "calibration_date": "2025-11-10"
+    },
+    {
+      "value":"3"
+      "name": "Audiometer 3",
+      "brand": "Grason-Stadler",
+      "model": "GSI 61",
+      "serial_number": "AUD-003",
+      "calibration_date": "2025-10-05"
+    },
+    {
+      "value":"4"
+      "name": "Audiometer 4",
+      "brand": "Inventis",
+      "model": "Harp",
+      "serial_number": "AUD-004",
+      "calibration_date": "2025-09-20"
+    }
+  ]
+}
