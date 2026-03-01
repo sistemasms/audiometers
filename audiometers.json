@@ -3,7 +3,7 @@
   "updated_at": "2026-02-28",
   "audiometers": [
     {
-      "value":"1"
+      "value":"1",
       "name": "Audiometer 1",
       "brand": "Interacoustics",
       "model": "AD629",
@@ -11,7 +11,7 @@
       "calibration_date": "2025-12-15"
     },
     {
-      "value":"2"
+      "value":"2",
       "name": "Audiometer 2",
       "brand": "Maico",
       "model": "MA42",
@@ -19,7 +19,7 @@
       "calibration_date": "2025-11-10"
     },
     {
-      "value":"3"
+      "value":"3",
       "name": "Audiometer 3",
       "brand": "Grason-Stadler",
       "model": "GSI 61",
@@ -27,7 +27,7 @@
       "calibration_date": "2025-10-05"
     },
     {
-      "value":"4"
+      "value":"4",
       "name": "Audiometer 4",
       "brand": "Inventis",
       "model": "Harp",
